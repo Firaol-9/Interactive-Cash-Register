@@ -1,0 +1,971 @@
+Item,Record Codes,Quantity,Price,Category,Day,Month,Year
+Doughnut,6071992023,318,99,Most Ordered,19,9,2023
+Special Burger,3331992023,41,450,Most Ordered,19,9,2023
+Salad,1701992023,6,220,Most Ordered,19,9,2023
+Chips,1271992023,49,70,Most Ordered,19,9,2023
+Spageti,1931992023,1,250,Most Ordered,19,9,2023
+Spageti,1391992023,2,250,Most Ordered,19,9,2023
+Salad,2241992023,1,220,Most Ordered,19,9,2023
+Burger,1231992023,1,350,Most Ordered,19,9,2023
+Burger,1571992023,2,350,Most Ordered,19,9,2023
+Special Burger,1061992023,2,450,Most Ordered,19,9,2023
+Spageti,1661992023,2,250,Most Ordered,19,9,2023
+Salad,1971992023,2,220,Most Ordered,19,9,2023
+Donut,2011992023,2,30,Most Ordered,19,9,2023
+Donut,1291992023,1,30,Dessert,19,9,2023
+Donut,1481992023,1,30,Dessert,19,9,2023
+Special Burger,3332092023,1,450,Most Ordered,20,9,2023
+Doughnut,6072092023,53,99,Most Ordered,20,9,2023
+Chips,1272092023,4,70,Most Ordered,20,9,2023
+Spageti,1932092023,4,250,Most Ordered,20,9,2023
+Salad,1702092023,6,220,Most Ordered,20,9,2023
+Burger,1572092023,3,350,Main,20,9,2023
+Spageti,1662092023,1,250,Main,20,9,2023
+Salad,1972092023,1,220,Traditional,20,9,2023
+Salad,2242092023,3,220,Traditional,20,9,2023
+Spageti,1392092023,2,250,Most Ordered,20,9,2023
+Burger,1842092023,4,350,Most Ordered,20,9,2023
+Donut,1292092023,10,30,Most Ordered,20,9,2023
+Special Burger,1352092023,78,450,Most Ordered,20,9,2023
+Chips,1272192023,32,70,Most Ordered,21,9,2023
+Doughnut,6072192023,11,99,Most Ordered,21,9,2023
+Salad,1702192023,16,220,Most Ordered,21,9,2023
+Spageti,1932192023,18,250,Most Ordered,21,9,2023
+Salad,2242192023,15,220,Most Ordered,21,9,2023
+Spageti,1662192023,2,250,Most Ordered,21,9,2023
+Special Burger,1352192023,10,450,Most Ordered,21,9,2023
+Donut,1482192023,18,30,Most Ordered,21,9,2023
+Spageti,1392192023,13,250,Most Ordered,21,9,2023
+Burger,1842192023,3,350,Most Ordered,21,9,2023
+Donut,1292192023,11,30,Most Ordered,21,9,2023
+Salad,1242192023,4,220,All Items,21,9,2023
+Special Burger,1062192023,3,450,Most Ordered,21,9,2023
+Spageti,1052192023,2,250,All Items,21,9,2023
+Salad,1442192023,1,220,All Items,21,9,2023
+Burger,1232192023,8,350,Most Ordered,21,9,2023
+Chips,1792192023,18,70,Most Ordered,21,9,2023
+Special Burger,1352292023,2,450,Most Ordered,22,9,2023
+Doughnut,6072292023,3,99,Most Ordered,22,9,2023
+Salad,1702292023,3,220,Most Ordered,22,9,2023
+Spageti,1932292023,3,250,Most Ordered,22,9,2023
+Chips,1272292023,3,70,Most Ordered,22,9,2023
+Special Burger,1353102023,3,450,Most Ordered,3,10,2023
+Salad,1703102023,3,220,Most Ordered,3,10,2023
+Donut,1483102023,1,30,Most Ordered,3,10,2023
+Spageti,1663102023,2,250,Most Ordered,3,10,2023
+Salad,1243102023,1,220,Most Ordered,3,10,2023
+Spageti,1393102023,3,250,Most Ordered,3,10,2023
+Spageti,1934102023,24,250,Most Ordered,4,10,2023
+Chips,1274102023,3,70,Most Ordered,4,10,2023
+Donut,1484102023,5,30,Most Ordered,4,10,2023
+Salad,2244102023,1,220,Most Ordered,4,10,2023
+Doughnut,6074102023,4,99,Most Ordered,4,10,2023
+Burger,1844102023,1,350,Most Ordered,4,10,2023
+Spageti,1664102023,2,250,Most Ordered,4,10,2023
+Salad,1704102023,1,220,Most Ordered,4,10,2023
+Donut,1486102023,2,30,Most Ordered,6,10,2023
+Chips,1796102023,1,70,Most Ordered,6,10,2023
+Doughnut,6076102023,1,99,Most Ordered,6,10,2023
+Burger,2556102023,1,350,Main,6,10,2023
+Burger,5056102023,15,350,Main,6,10,2023
+Chips,1276102023,1,70,Most Ordered,6,10,2023
+Doughnut,6077102023,1,99,Most Ordered,7,10,2023
+Spageti,1938102023,1,250,Most Ordered,8,10,2023
+Salad,2248102023,1,220,Most Ordered,8,10,2023
+Chips,12710102023,1,70,Most Ordered,10,10,2023
+Burger,18410102023,3,350,Main,10,10,2023
+Chips,12711102023,2,70,Most Ordered,11,10,2023
+Donut,1291392023,1,30,Dessert,13,9,2023
+Chips,1291392023,1,70,Dessert,13,9,2023
+Special Burger,1291392023,1,450,Dessert,13,9,2023
+Doughnut,1291392023,4,99,Most Ordered,4,9,2023
+Burger,1291392023,1,350,Most Ordered,4,9,2023
+Spageti,1291392023,2,250,Most Ordered,4,9,2023
+Salad,1291392023,1,220,Most Ordered,4,9,2023
+Donut,1291392023,2,30,Most Ordered,6,9,2023
+Chips,1291392023,1,70,Most Ordered,6,9,2023
+Doughnut,1291392023,1,99,Most Ordered,6,9,2023
+Burger,1291392023,1,350,Main,6,9,2023
+Burger,1291392023,15,350,Main,6,9,2023
+Chips,1291392023,1,70,Most Ordered,6,9,2023
+Doughnut,1291392023,1,99,Most Ordered,7,9,2023
+Spageti,1291392023,1,250,Most Ordered,8,9,2023
+Salad,1291392023,1,220,Most Ordered,8,9,2023
+Chips,1291392023,1,70,Most Ordered,10,9,2023
+Burger,1291392023,3,350,Main,10,9,2023
+Chips,1271192023,2,70,Most Ordered,11,8,2023
+Donut,1271192023,1,30,Dessert,13,8,2023
+Chips,1271192023,1,70,Dessert,13,8,2023
+Special Burger,1271192023,1,450,Dessert,13,8,2023
+Spageti,1932292023,3,250,Most Ordered,22,9,2023
+Chips,1272292023,3,70,Most Ordered,22,9,2023
+Special Burger,135372023,3,450,Most Ordered,3,7,2023
+Salad,135372023,3,220,Most Ordered,3,7,2023
+Donut,135372023,1,30,Most Ordered,3,7,2023
+Spageti,135372023,2,250,Most Ordered,3,7,2023
+Salad,135372023,1,220,Most Ordered,3,7,2023
+Spageti,135372023,3,250,Most Ordered,3,7,2023
+Spageti,135372023,24,250,Most Ordered,4,7,2023
+Chips,135372023,3,70,Most Ordered,4,7,2023
+Donut,135372023,5,30,Most Ordered,4,7,2023
+Salad,135372023,1,220,Most Ordered,4,7,2023
+Doughnut,135372023,4,99,Most Ordered,4,7,2023
+Burger,135372023,1,350,Most Ordered,4,7,2023
+Spageti,135372023,2,250,Most Ordered,4,7,2023
+Salad,135372023,1,220,Most Ordered,4,7,2023
+Donut,135372023,2,30,Most Ordered,6,7,2023
+Chips,135372023,1,70,Most Ordered,6,7,2023
+Doughnut,135372023,1,99,Most Ordered,6,7,2023
+Burger,135372023,1,350,Main,6,7,2023
+Burger,135372023,15,350,Main,6,7,2023
+Chips,127652023,1,70,Most Ordered,6,5,2023
+Doughnut,127652023,1,99,Most Ordered,7,5,2023
+Spageti,127652023,1,250,Most Ordered,8,5,2023
+Salad,127652023,1,220,Most Ordered,8,5,2023
+Chips,127652023,1,70,Most Ordered,10,5,2023
+Burger,127652023,3,350,Main,10,5,2023
+Chips,127652023,2,70,Most Ordered,11,5,2023
+Donut,127652023,1,30,Dessert,13,5,2023
+Chips,127652023,1,70,Dessert,13,5,2023
+Doughnut,6071912023,318,99,Most Ordered,19,1,2023
+Special Burger,3331992023,41,450,Most Ordered,19,1,2023
+Salad,1701992023,6,220,Most Ordered,19,1,2023
+Chips,1271992023,49,70,Most Ordered,19,1,2023
+Spageti,1931992023,1,250,Most Ordered,19,1,2023
+Spageti,1391992023,2,250,Most Ordered,19,1,2023
+Salad,2241992023,1,220,Most Ordered,19,1,2023
+Burger,1231992023,1,350,Most Ordered,19,1,2023
+Burger,1571992023,2,350,Most Ordered,19,1,2023
+Special Burger,1061992023,2,450,Most Ordered,19,1,2023
+Spageti,1661992023,2,250,Most Ordered,19,1,2023
+Salad,1971992023,2,220,Most Ordered,19,1,2023
+Donut,2011992023,2,30,Most Ordered,19,1,2023
+Donut,1291992023,1,30,Dessert,19,1,2023
+Donut,1481992023,1,30,Dessert,19,1,2023
+Special Burger,3332092023,1,450,Most Ordered,20,1,2023
+Doughnut,6072092023,53,99,Most Ordered,20,1,2023
+Chips,1272092023,4,70,Most Ordered,20,1,2023
+Spageti,1932092023,4,250,Most Ordered,20,1,2023
+Salad,1702092023,6,220,Most Ordered,20,1,2023
+Burger,1572092023,3,350,Main,20,1,2023
+Spageti,1662092023,1,250,Main,20,1,2023
+Salad,1972092023,1,220,Traditional,20,1,2023
+Salad,2242092023,3,220,Traditional,20,1,2023
+Spageti,1392092023,2,250,Most Ordered,20,1,2023
+Burger,1842092023,4,350,Most Ordered,20,1,2023
+Donut,1292092023,10,30,Most Ordered,20,1,2023
+Special Burger,1352092023,78,450,Most Ordered,20,1,2023
+Chips,1272192023,32,70,Most Ordered,21,1,2023
+Doughnut,6072192023,11,99,Most Ordered,21,1,2023
+Salad,1702192023,16,220,Most Ordered,21,1,2023
+Spageti,1932192023,18,250,Most Ordered,21,1,2023
+Salad,2242192023,15,220,Most Ordered,21,1,2023
+Spageti,1662192023,2,250,Most Ordered,21,1,2023
+Special Burger,1352192023,10,450,Most Ordered,21,1,2023
+Donut,1482192023,18,30,Most Ordered,21,1,2023
+Spageti,1392192023,13,250,Most Ordered,21,1,2023
+Burger,1842192023,3,350,Most Ordered,21,1,2023
+Donut,1292192023,11,30,Most Ordered,21,1,2023
+Salad,1242192023,4,220,All Items,21,1,2023
+Special Burger,1062192023,3,450,Most Ordered,21,1,2023
+Spageti,1052192023,2,250,All Items,21,1,2023
+Salad,1442192023,1,220,All Items,21,1,2023
+Burger,1232192023,8,350,Most Ordered,21,1,2023
+Chips,1792192023,18,70,Most Ordered,21,1,2023
+Special Burger,1352292023,2,450,Most Ordered,22,1,2023
+Doughnut,6072292023,3,99,Most Ordered,22,1,2023
+Salad,1702292023,3,220,Most Ordered,22,1,2023
+Spageti,1932292023,3,250,Most Ordered,22,1,2023
+Chips,1272292023,3,70,Most Ordered,22,1,2023
+Special Burger,1353102023,3,450,Most Ordered,3,1,2023
+Salad,1703102023,3,220,Most Ordered,3,1,2023
+Donut,1483102023,1,30,Most Ordered,3,1,2023
+Spageti,1663102023,2,250,Most Ordered,3,1,2023
+Salad,1243102023,1,220,Most Ordered,3,1,2023
+Spageti,1393102023,3,250,Most Ordered,3,1,2023
+Spageti,1934102023,24,250,Most Ordered,4,1,2023
+Chips,1274102023,3,70,Most Ordered,4,1,2023
+Donut,1484102023,5,30,Most Ordered,4,1,2023
+Salad,2244102023,1,220,Most Ordered,4,1,2023
+Doughnut,6074102023,4,99,Most Ordered,4,1,2023
+Burger,1844102023,1,350,Most Ordered,4,1,2023
+Spageti,1664102023,2,250,Most Ordered,4,1,2023
+Salad,1704102023,1,220,Most Ordered,4,1,2023
+Donut,1486102023,2,30,Most Ordered,6,1,2023
+Chips,1796102023,1,70,Most Ordered,6,1,2023
+Doughnut,6076102023,1,99,Most Ordered,6,1,2023
+Burger,2556102023,1,350,Main,6,1,2023
+Burger,5056102023,15,350,Main,6,1,2023
+Chips,1276102023,1,70,Most Ordered,6,1,2023
+Doughnut,6077102023,1,99,Most Ordered,7,1,2023
+Spageti,1938102023,1,250,Most Ordered,8,1,2023
+Salad,2248102023,1,220,Most Ordered,8,1,2023
+Chips,12710102023,1,70,Most Ordered,10,1,2023
+Burger,18410102023,3,350,Main,10,1,2023
+Chips,12711102023,2,70,Most Ordered,11,1,2023
+Donut,1291392023,1,30,Dessert,13,1,2023
+Chips,1291392023,1,70,Dessert,13,1,2023
+Special Burger,1291392023,1,450,Dessert,13,1,2023
+Doughnut,1291392023,4,99,Most Ordered,4,1,2023
+Burger,1291392023,1,350,Most Ordered,4,1,2023
+Spageti,1291392023,2,250,Most Ordered,4,1,2023
+Salad,1291392023,1,220,Most Ordered,4,1,2023
+Donut,1291392023,2,30,Most Ordered,6,1,2023
+Chips,1291392023,1,70,Most Ordered,6,1,2023
+Doughnut,1291392023,1,99,Most Ordered,6,1,2023
+Burger,1291392023,1,350,Main,6,1,2023
+Burger,1291392023,15,350,Main,6,1,2023
+Chips,1291392023,1,70,Most Ordered,6,1,2023
+Doughnut,1291392023,1,99,Most Ordered,7,1,2023
+Spageti,1291392023,1,250,Most Ordered,8,1,2023
+Salad,1291392023,1,220,Most Ordered,8,1,2023
+Chips,1291392023,1,70,Most Ordered,10,1,2023
+Burger,1291392023,3,350,Main,10,1,2023
+Chips,1271192023,2,70,Most Ordered,11,1,2023
+Donut,1271192023,1,30,Dessert,13,1,2023
+Chips,1271192023,1,70,Dessert,13,1,2023
+Special Burger,1271192023,1,450,Dessert,13,1,2023
+Spageti,1932292023,3,250,Most Ordered,22,1,2023
+Chips,1272292023,3,70,Most Ordered,22,1,2023
+Special Burger,135372023,3,450,Most Ordered,3,1,2023
+Salad,135372023,3,220,Most Ordered,3,1,2023
+Donut,135372023,1,30,Most Ordered,3,1,2023
+Spageti,135372023,2,250,Most Ordered,3,1,2023
+Salad,135372023,1,220,Most Ordered,3,1,2023
+Spageti,135372023,3,250,Most Ordered,3,1,2023
+Spageti,135372023,24,250,Most Ordered,4,1,2023
+Chips,135372023,3,70,Most Ordered,4,1,2023
+Donut,135372023,5,30,Most Ordered,4,1,2023
+Salad,135372023,1,220,Most Ordered,4,1,2023
+Doughnut,135372023,4,99,Most Ordered,4,1,2023
+Burger,135372023,1,350,Most Ordered,4,1,2023
+Spageti,135372023,2,250,Most Ordered,4,1,2023
+Salad,135372023,1,220,Most Ordered,4,1,2023
+Donut,135372023,2,30,Most Ordered,6,1,2023
+Chips,135372023,1,70,Most Ordered,6,1,2023
+Doughnut,135372023,1,99,Most Ordered,6,1,2023
+Burger,135372023,1,350,Main,6,1,2023
+Burger,135372023,15,350,Main,6,1,2023
+Chips,127652023,1,70,Most Ordered,6,1,2023
+Doughnut,127652023,1,99,Most Ordered,7,1,2023
+Spageti,127652023,1,250,Most Ordered,8,1,2023
+Salad,127652023,1,220,Most Ordered,8,1,2023
+Chips,127652023,1,70,Most Ordered,10,1,2023
+Burger,127652023,3,350,Main,10,1,2023
+Chips,127652023,2,70,Most Ordered,11,1,2023
+Donut,127652023,1,30,Dessert,13,1,2023
+Chips,127652023,1,70,Dessert,13,1,2023
+Doughnut,6071912023,318,99,Most Ordered,19,2,2023
+Special Burger,3331992023,41,450,Most Ordered,19,2,2023
+Salad,1701992023,6,220,Most Ordered,19,2,2023
+Chips,1271992023,49,70,Most Ordered,19,2,2023
+Spageti,1931992023,1,250,Most Ordered,19,2,2023
+Spageti,1391992023,2,250,Most Ordered,19,2,2023
+Salad,2241992023,1,220,Most Ordered,19,2,2023
+Burger,1231992023,1,350,Most Ordered,19,2,2023
+Burger,1571992023,2,350,Most Ordered,19,2,2023
+Special Burger,1061992023,2,450,Most Ordered,19,2,2023
+Spageti,1661992023,2,250,Most Ordered,19,2,2023
+Salad,1971992023,2,220,Most Ordered,19,2,2023
+Donut,2011992023,2,30,Most Ordered,19,2,2023
+Donut,1291992023,1,30,Dessert,19,2,2023
+Donut,1481992023,1,30,Dessert,19,2,2023
+Special Burger,3332092023,1,450,Most Ordered,20,2,2023
+Doughnut,6072092023,53,99,Most Ordered,20,2,2023
+Chips,1272092023,4,70,Most Ordered,20,2,2023
+Spageti,1932092023,4,250,Most Ordered,20,2,2023
+Salad,1702092023,6,220,Most Ordered,20,2,2023
+Burger,1572092023,3,350,Main,20,2,2023
+Spageti,1662092023,1,250,Main,20,2,2023
+Salad,1972092023,1,220,Traditional,20,2,2023
+Salad,2242092023,3,220,Traditional,20,2,2023
+Spageti,1392092023,2,250,Most Ordered,20,2,2023
+Burger,1842092023,4,350,Most Ordered,20,2,2023
+Donut,1292092023,10,30,Most Ordered,20,2,2023
+Special Burger,1352092023,78,450,Most Ordered,20,2,2023
+Chips,1272192023,32,70,Most Ordered,21,2,2023
+Doughnut,6072192023,11,99,Most Ordered,21,2,2023
+Salad,1702192023,16,220,Most Ordered,21,2,2023
+Spageti,1932192023,18,250,Most Ordered,21,2,2023
+Salad,2242192023,15,220,Most Ordered,21,2,2023
+Spageti,1662192023,2,250,Most Ordered,21,2,2023
+Special Burger,1352192023,10,450,Most Ordered,21,2,2023
+Donut,1482192023,18,30,Most Ordered,21,2,2023
+Spageti,1392192023,13,250,Most Ordered,21,2,2023
+Burger,1842192023,3,350,Most Ordered,21,2,2023
+Donut,1292192023,11,30,Most Ordered,21,2,2023
+Salad,1242192023,4,220,All Items,21,2,2023
+Special Burger,1062192023,3,450,Most Ordered,21,2,2023
+Spageti,1052192023,2,250,All Items,21,2,2023
+Salad,1442192023,1,220,All Items,21,2,2023
+Burger,1232192023,8,350,Most Ordered,21,2,2023
+Chips,1792192023,18,70,Most Ordered,21,2,2023
+Special Burger,1352292023,2,450,Most Ordered,22,2,2023
+Doughnut,6072292023,3,99,Most Ordered,22,2,2023
+Salad,1702292023,3,220,Most Ordered,22,2,2023
+Spageti,1932292023,3,250,Most Ordered,22,2,2023
+Chips,1272292023,3,70,Most Ordered,22,2,2023
+Special Burger,1353102023,3,450,Most Ordered,3,2,2023
+Salad,1703102023,3,220,Most Ordered,3,2,2023
+Donut,1483102023,1,30,Most Ordered,3,2,2023
+Spageti,1663102023,2,250,Most Ordered,3,2,2023
+Salad,1243102023,1,220,Most Ordered,3,2,2023
+Spageti,1393102023,3,250,Most Ordered,3,2,2023
+Spageti,1934102023,24,250,Most Ordered,4,2,2023
+Chips,1274102023,3,70,Most Ordered,4,2,2023
+Donut,1484102023,5,30,Most Ordered,4,2,2023
+Salad,2244102023,1,220,Most Ordered,4,2,2023
+Doughnut,6074102023,4,99,Most Ordered,4,2,2023
+Burger,1844102023,1,350,Most Ordered,4,2,2023
+Spageti,1664102023,2,250,Most Ordered,4,2,2023
+Salad,1704102023,1,220,Most Ordered,4,2,2023
+Donut,1486102023,2,30,Most Ordered,6,2,2023
+Chips,1796102023,1,70,Most Ordered,6,2,2023
+Doughnut,6076102023,1,99,Most Ordered,6,2,2023
+Burger,2556102023,1,350,Main,6,2,2023
+Burger,5056102023,15,350,Main,6,2,2023
+Chips,1276102023,1,70,Most Ordered,6,2,2023
+Doughnut,6077102023,1,99,Most Ordered,7,2,2023
+Spageti,1938102023,1,250,Most Ordered,8,2,2023
+Salad,2248102023,1,220,Most Ordered,8,2,2023
+Chips,12710102023,1,70,Most Ordered,10,2,2023
+Burger,18410102023,3,350,Main,10,2,2023
+Chips,12711102023,2,70,Most Ordered,11,2,2023
+Donut,1291392023,1,30,Dessert,13,2,2023
+Chips,1291392023,1,70,Dessert,13,2,2023
+Special Burger,1291392023,1,450,Dessert,13,2,2023
+Doughnut,1291392023,4,99,Most Ordered,4,2,2023
+Burger,1291392023,1,350,Most Ordered,4,2,2023
+Spageti,1291392023,2,250,Most Ordered,4,2,2023
+Salad,1291392023,1,220,Most Ordered,4,2,2023
+Donut,1291392023,2,30,Most Ordered,6,2,2023
+Chips,1291392023,1,70,Most Ordered,6,2,2023
+Doughnut,1291392023,1,99,Most Ordered,6,2,2023
+Burger,1291392023,1,350,Main,6,2,2023
+Burger,1291392023,15,350,Main,6,2,2023
+Chips,1291392023,1,70,Most Ordered,6,2,2023
+Doughnut,1291392023,1,99,Most Ordered,7,2,2023
+Spageti,1291392023,1,250,Most Ordered,8,2,2023
+Salad,1291392023,1,220,Most Ordered,8,2,2023
+Chips,1291392023,1,70,Most Ordered,10,2,2023
+Burger,1291392023,3,350,Main,10,2,2023
+Chips,1271192023,2,70,Most Ordered,11,2,2023
+Donut,1271192023,1,30,Dessert,13,2,2023
+Chips,1271192023,1,70,Dessert,13,2,2023
+Special Burger,1271192023,1,450,Dessert,13,2,2023
+Spageti,1932292023,3,250,Most Ordered,22,2,2023
+Chips,1272292023,3,70,Most Ordered,22,2,2023
+Special Burger,135372023,3,450,Most Ordered,3,2,2023
+Salad,135372023,3,220,Most Ordered,3,2,2023
+Donut,135372023,1,30,Most Ordered,3,2,2023
+Spageti,135372023,2,250,Most Ordered,3,2,2023
+Salad,135372023,1,220,Most Ordered,3,2,2023
+Spageti,135372023,3,250,Most Ordered,3,2,2023
+Spageti,135372023,24,250,Most Ordered,4,2,2023
+Chips,135372023,3,70,Most Ordered,4,2,2023
+Donut,135372023,5,30,Most Ordered,4,2,2023
+Salad,135372023,1,220,Most Ordered,4,2,2023
+Doughnut,135372023,4,99,Most Ordered,4,2,2023
+Burger,135372023,1,350,Most Ordered,4,2,2023
+Spageti,135372023,2,250,Most Ordered,4,2,2023
+Salad,135372023,1,220,Most Ordered,4,2,2023
+Donut,135372023,2,30,Most Ordered,6,2,2023
+Chips,135372023,1,70,Most Ordered,6,2,2023
+Doughnut,135372023,1,99,Most Ordered,6,2,2023
+Burger,135372023,1,350,Main,6,2,2023
+Burger,135372023,15,350,Main,6,2,2023
+Chips,127652023,1,70,Most Ordered,6,2,2023
+Doughnut,127652023,1,99,Most Ordered,7,2,2023
+Spageti,127652023,1,250,Most Ordered,8,2,2023
+Salad,127652023,1,220,Most Ordered,8,2,2023
+Chips,127652023,1,70,Most Ordered,10,2,2023
+Burger,127652023,3,350,Main,10,2,2023
+Chips,127652023,2,70,Most Ordered,11,2,2023
+Donut,127652023,1,30,Dessert,13,2,2023
+Chips,127652023,1,70,Dessert,13,2,2023
+Salad,1702192023,16,220,Most Ordered,21,3,2023
+Spageti,1932192023,18,250,Most Ordered,21,3,2023
+Salad,2242192023,15,220,Most Ordered,21,3,2023
+Spageti,1662192023,2,250,Most Ordered,21,3,2023
+Special Burger,1352192023,10,450,Most Ordered,21,3,2023
+Donut,1482192023,18,30,Most Ordered,21,3,2023
+Spageti,1392192023,13,250,Most Ordered,21,3,2023
+Burger,1842192023,3,350,Most Ordered,21,3,2023
+Donut,1292192023,11,30,Most Ordered,21,3,2023
+Salad,1242192023,4,220,All Items,21,3,2023
+Special Burger,1062192023,3,450,Most Ordered,21,3,2023
+Spageti,1052192023,2,250,All Items,21,3,2023
+Salad,1442192023,1,220,All Items,21,3,2023
+Burger,1232192023,8,350,Most Ordered,21,3,2023
+Chips,1792192023,18,70,Most Ordered,21,3,2023
+Special Burger,1352292023,2,450,Most Ordered,22,3,2023
+Doughnut,6072292023,3,99,Most Ordered,22,3,2023
+Salad,1702292023,3,220,Most Ordered,22,3,2023
+Spageti,1932292023,3,250,Most Ordered,22,3,2023
+Chips,1272292023,3,70,Most Ordered,22,3,2023
+Special Burger,1353102023,3,450,Most Ordered,3,3,2023
+Salad,1703102023,3,220,Most Ordered,3,3,2023
+Donut,1483102023,1,30,Most Ordered,3,3,2023
+Spageti,1663102023,2,250,Most Ordered,3,3,2023
+Salad,1243102023,1,220,Most Ordered,3,3,2023
+Spageti,1393102023,3,250,Most Ordered,3,3,2023
+Spageti,1934102023,24,250,Most Ordered,4,3,2023
+Chips,1274102023,3,70,Most Ordered,4,3,2023
+Donut,1484102023,5,30,Most Ordered,4,3,2023
+Salad,2244102023,1,220,Most Ordered,4,3,2023
+Doughnut,6074102023,4,99,Most Ordered,4,3,2023
+Burger,1844102023,1,350,Most Ordered,4,3,2023
+Spageti,1664102023,2,250,Most Ordered,4,3,2023
+Salad,1704102023,1,220,Most Ordered,4,3,2023
+Donut,1486102023,2,30,Most Ordered,6,3,2023
+Chips,1796102023,1,70,Most Ordered,6,3,2023
+Doughnut,6076102023,1,99,Most Ordered,6,3,2023
+Burger,2556102023,1,350,Main,6,3,2023
+Burger,5056102023,15,350,Main,6,3,2023
+Chips,1276102023,1,70,Most Ordered,6,3,2023
+Doughnut,6077102023,1,99,Most Ordered,7,3,2023
+Spageti,1938102023,1,250,Most Ordered,8,3,2023
+Salad,2248102023,1,220,Most Ordered,8,3,2023
+Chips,12710102023,1,70,Most Ordered,10,3,2023
+Burger,18410102023,3,350,Main,10,3,2023
+Chips,12711102023,2,70,Most Ordered,11,3,2023
+Donut,1291392023,1,30,Dessert,13,3,2023
+Chips,1291392023,1,70,Dessert,13,3,2023
+Special Burger,1291392023,1,450,Dessert,13,3,2023
+Doughnut,1291392023,4,99,Most Ordered,4,3,2023
+Burger,1291392023,1,350,Most Ordered,4,3,2023
+Spageti,1291392023,2,250,Most Ordered,4,3,2023
+Salad,1291392023,1,220,Most Ordered,4,3,2023
+Donut,1291392023,2,30,Most Ordered,6,3,2023
+Chips,1291392023,1,70,Most Ordered,6,3,2023
+Doughnut,1291392023,1,99,Most Ordered,6,3,2023
+Burger,1291392023,1,350,Main,6,3,2023
+Burger,1291392023,15,350,Main,6,3,2023
+Chips,1291392023,1,70,Most Ordered,6,3,2023
+Doughnut,1291392023,1,99,Most Ordered,7,3,2023
+Spageti,1291392023,1,250,Most Ordered,8,3,2023
+Salad,1291392023,1,220,Most Ordered,8,3,2023
+Chips,1291392023,1,70,Most Ordered,10,3,2023
+Burger,1291392023,3,350,Main,10,3,2023
+Chips,1271192023,2,70,Most Ordered,11,3,2023
+Donut,1271192023,1,30,Dessert,13,3,2023
+Chips,1271192023,1,70,Dessert,13,3,2023
+Special Burger,1271192023,1,450,Dessert,13,3,2023
+Spageti,1932292023,3,250,Most Ordered,22,3,2023
+Chips,1272292023,3,70,Most Ordered,22,3,2023
+Special Burger,135372023,3,450,Most Ordered,3,3,2023
+Salad,135372023,3,220,Most Ordered,3,3,2023
+Donut,135372023,1,30,Most Ordered,3,3,2023
+Spageti,135372023,2,250,Most Ordered,3,3,2023
+Salad,135372023,1,220,Most Ordered,3,3,2023
+Spageti,135372023,3,250,Most Ordered,3,3,2023
+Spageti,135372023,24,250,Most Ordered,4,3,2023
+Chips,135372023,3,70,Most Ordered,4,3,2023
+Donut,135372023,5,30,Most Ordered,4,3,2023
+Salad,135372023,1,220,Most Ordered,4,3,2023
+Doughnut,135372023,4,99,Most Ordered,4,3,2023
+Burger,135372023,1,350,Most Ordered,4,3,2023
+Spageti,135372023,2,250,Most Ordered,4,3,2023
+Salad,135372023,1,220,Most Ordered,4,3,2023
+Donut,135372023,2,30,Most Ordered,6,3,2023
+Chips,135372023,1,70,Most Ordered,6,3,2023
+Doughnut,135372023,1,99,Most Ordered,6,3,2023
+Burger,135372023,1,350,Main,6,3,2023
+Doughnut,6071992023,318,99,Most Ordered,19,4,2023
+Special Burger,3331992023,41,450,Most Ordered,19,4,2023
+Salad,1701992023,6,220,Most Ordered,19,4,2023
+Chips,1271992023,49,70,Most Ordered,19,4,2023
+Spageti,1931992023,1,250,Most Ordered,19,4,2023
+Spageti,1391992023,2,250,Most Ordered,19,4,2023
+Salad,2241992023,1,220,Most Ordered,19,4,2023
+Burger,1231992023,1,350,Most Ordered,19,4,2023
+Burger,1571992023,2,350,Most Ordered,19,4,2023
+Special Burger,1061992023,2,450,Most Ordered,19,4,2023
+Spageti,1661992023,2,250,Most Ordered,19,4,2023
+Salad,1971992023,2,220,Most Ordered,19,4,2023
+Donut,2011992023,2,30,Most Ordered,19,4,2023
+Donut,1291992023,1,30,Dessert,19,4,2023
+Donut,1481992023,1,30,Dessert,19,4,2023
+Special Burger,3332092023,1,450,Most Ordered,20,4,2023
+Doughnut,6072092023,53,99,Most Ordered,20,4,2023
+Chips,1272092023,4,70,Most Ordered,20,4,2023
+Spageti,1932092023,4,250,Most Ordered,20,4,2023
+Salad,1702092023,6,220,Most Ordered,20,4,2023
+Burger,1572092023,3,350,Main,20,4,2023
+Spageti,1662092023,1,250,Main,20,4,2023
+Salad,1972092023,1,220,Traditional,20,4,2023
+Salad,2242092023,3,220,Traditional,20,4,2023
+Spageti,1392092023,2,250,Most Ordered,20,4,2023
+Burger,1842092023,4,350,Most Ordered,20,4,2023
+Donut,1292092023,10,30,Most Ordered,20,4,2023
+Special Burger,1352092023,78,450,Most Ordered,20,4,2023
+Chips,1272192023,32,70,Most Ordered,21,4,2023
+Doughnut,6072192023,11,99,Most Ordered,21,4,2023
+Salad,1702192023,16,220,Most Ordered,21,4,2023
+Spageti,1932192023,18,250,Most Ordered,21,4,2023
+Salad,2242192023,15,220,Most Ordered,21,4,2023
+Spageti,1662192023,2,250,Most Ordered,21,4,2023
+Special Burger,1352192023,10,450,Most Ordered,21,4,2023
+Donut,1482192023,18,30,Most Ordered,21,4,2023
+Spageti,1392192023,13,250,Most Ordered,21,4,2023
+Burger,1842192023,3,350,Most Ordered,21,4,2023
+Donut,1292192023,11,30,Most Ordered,21,4,2023
+Salad,1242192023,4,220,All Items,21,4,2023
+Special Burger,1062192023,3,450,Most Ordered,21,4,2023
+Spageti,1052192023,2,250,All Items,21,4,2023
+Salad,1442192023,1,220,All Items,21,4,2023
+Burger,1232192023,8,350,Most Ordered,21,4,2023
+Chips,1792192023,18,70,Most Ordered,21,4,2023
+Special Burger,1352292023,2,450,Most Ordered,22,4,2023
+Doughnut,6072292023,3,99,Most Ordered,22,4,2023
+Salad,1702292023,3,220,Most Ordered,22,4,2023
+Spageti,1932292023,3,250,Most Ordered,22,4,2023
+Chips,1272292023,3,70,Most Ordered,22,4,2023
+Special Burger,1353102023,3,450,Most Ordered,3,4,2023
+Salad,1703102023,3,220,Most Ordered,3,4,2023
+Donut,1483102023,1,30,Most Ordered,3,4,2023
+Spageti,1663102023,2,250,Most Ordered,3,4,2023
+Salad,1243102023,1,220,Most Ordered,3,4,2023
+Spageti,1393102023,3,250,Most Ordered,3,4,2023
+Spageti,1934102023,24,250,Most Ordered,4,4,2023
+Chips,1274102023,3,70,Most Ordered,4,4,2023
+Donut,1484102023,5,30,Most Ordered,4,4,2023
+Salad,2244102023,1,220,Most Ordered,4,4,2023
+Doughnut,6074102023,4,99,Most Ordered,4,4,2023
+Burger,1844102023,1,350,Most Ordered,4,4,2023
+Spageti,1664102023,2,250,Most Ordered,4,4,2023
+Salad,1704102023,1,220,Most Ordered,4,4,2023
+Donut,1486102023,2,30,Most Ordered,6,4,2023
+Chips,1796102023,1,70,Most Ordered,6,4,2023
+Doughnut,6076102023,1,99,Most Ordered,6,4,2023
+Burger,2556102023,1,350,Main,6,4,2023
+Burger,5056102023,15,350,Main,6,4,2023
+Chips,1276102023,1,70,Most Ordered,6,4,2023
+Doughnut,6077102023,1,99,Most Ordered,7,4,2023
+Spageti,1938102023,1,250,Most Ordered,8,4,2023
+Salad,2248102023,1,220,Most Ordered,8,4,2023
+Chips,12710102023,1,70,Most Ordered,10,4,2023
+Burger,18410102023,3,350,Main,10,4,2023
+Chips,12711102023,2,70,Most Ordered,11,4,2023
+Donut,1291392023,1,30,Dessert,13,4,2023
+Chips,1291392023,1,70,Dessert,13,4,2023
+Special Burger,1291392023,1,450,Dessert,13,4,2023
+Doughnut,1291392023,4,99,Most Ordered,4,4,2023
+Burger,1291392023,1,350,Most Ordered,4,4,2023
+Spageti,1291392023,2,250,Most Ordered,4,4,2023
+Salad,1291392023,1,220,Most Ordered,4,4,2023
+Donut,1291392023,2,30,Most Ordered,6,4,2023
+Chips,1291392023,1,70,Most Ordered,6,4,2023
+Doughnut,1291392023,1,99,Most Ordered,6,4,2023
+Burger,1291392023,1,350,Main,6,4,2023
+Burger,1291392023,15,350,Main,6,4,2023
+Chips,1291392023,1,70,Most Ordered,6,4,2023
+Doughnut,1291392023,1,99,Most Ordered,7,4,2023
+Spageti,1291392023,1,250,Most Ordered,8,4,2023
+Salad,1291392023,1,220,Most Ordered,8,4,2023
+Chips,1291392023,1,70,Most Ordered,10,4,2023
+Burger,1291392023,3,350,Main,10,4,2023
+Chips,1271192023,2,70,Most Ordered,11,4,2023
+Donut,1271192023,1,30,Dessert,13,4,2023
+Chips,1271192023,1,70,Dessert,13,4,2023
+Special Burger,1271192023,1,450,Dessert,13,4,2023
+Spageti,1932292023,3,250,Most Ordered,22,4,2023
+Chips,1272292023,3,70,Most Ordered,22,4,2023
+Special Burger,135372023,3,450,Most Ordered,3,4,2023
+Salad,135372023,3,220,Most Ordered,3,4,2023
+Donut,135372023,1,30,Most Ordered,3,4,2023
+Spageti,135372023,2,250,Most Ordered,3,4,2023
+Salad,135372023,1,220,Most Ordered,3,4,2023
+Spageti,135372023,3,250,Most Ordered,3,4,2023
+Spageti,135372023,24,250,Most Ordered,4,4,2023
+Chips,135372023,3,70,Most Ordered,4,4,2023
+Donut,135372023,5,30,Most Ordered,4,4,2023
+Salad,135372023,1,220,Most Ordered,4,4,2023
+Doughnut,135372023,4,99,Most Ordered,4,4,2023
+Burger,135372023,1,350,Most Ordered,4,4,2023
+Spageti,135372023,2,250,Most Ordered,4,4,2023
+Salad,135372023,1,220,Most Ordered,4,4,2023
+Donut,135372023,2,30,Most Ordered,6,4,2023
+Chips,135372023,1,70,Most Ordered,6,4,2023
+Doughnut,135372023,1,99,Most Ordered,6,4,2023
+Burger,135372023,1,350,Main,6,4,2023
+Burger,135372023,15,350,Main,6,4,2023
+Chips,127652023,1,70,Most Ordered,6,4,2023
+Doughnut,127652023,1,99,Most Ordered,7,4,2023
+Chips,1271192023,1,70,Dessert,13,4,2023
+Special Burger,1271192023,1,450,Dessert,13,5,2023
+Spageti,1932292023,3,250,Most Ordered,22,5,2023
+Chips,1272292023,3,70,Most Ordered,22,5,2023
+Special Burger,135372023,3,450,Most Ordered,3,5,2023
+Salad,135372023,3,220,Most Ordered,3,5,2023
+Donut,135372023,1,30,Most Ordered,3,5,2023
+Spageti,135372023,2,250,Most Ordered,3,5,2023
+Salad,135372023,1,220,Most Ordered,3,5,2023
+Spageti,135372023,3,250,Most Ordered,3,5,2023
+Spageti,135372023,24,250,Most Ordered,4,5,2023
+Chips,135372023,3,70,Most Ordered,4,5,2023
+Donut,135372023,5,30,Most Ordered,4,5,2023
+Salad,135372023,1,220,Most Ordered,4,5,2023
+Doughnut,135372023,4,99,Most Ordered,4,5,2023
+Burger,135372023,1,350,Most Ordered,4,5,2023
+Spageti,135372023,2,250,Most Ordered,4,5,2023
+Salad,135372023,1,220,Most Ordered,4,5,2023
+Donut,135372023,2,30,Most Ordered,6,5,2023
+Chips,135372023,1,70,Most Ordered,6,5,2023
+Doughnut,135372023,1,99,Most Ordered,6,5,2023
+Burger,135372023,1,350,Main,6,5,2023
+Burger,135372023,15,350,Main,6,5,2023
+Chips,127652023,1,70,Most Ordered,6,5,2023
+Doughnut,127652023,1,99,Most Ordered,7,5,2023
+Spageti,127652023,1,250,Most Ordered,8,5,2023
+Salad,127652023,1,220,Most Ordered,8,5,2023
+Chips,127652023,1,70,Most Ordered,10,5,2023
+Burger,127652023,3,350,Main,10,5,2023
+Chips,127652023,2,70,Most Ordered,11,5,2023
+Donut,127652023,1,30,Dessert,13,5,2023
+Chips,127652023,1,70,Dessert,13,5,2023
+Salad,1702192023,16,220,Most Ordered,21,5,2023
+Spageti,1932192023,18,250,Most Ordered,21,5,2023
+Salad,2242192023,15,220,Most Ordered,21,5,2023
+Spageti,1662192023,2,250,Most Ordered,21,5,2023
+Special Burger,1352192023,10,450,Most Ordered,21,5,2023
+Donut,1482192023,18,30,Most Ordered,21,5,2023
+Spageti,1392192023,13,250,Most Ordered,21,5,2023
+Burger,1842192023,3,350,Most Ordered,21,5,2023
+Donut,1292192023,11,30,Most Ordered,21,5,2023
+Salad,1242192023,4,220,All Items,21,5,2023
+Special Burger,1062192023,3,450,Most Ordered,21,5,2023
+Spageti,1052192023,2,250,All Items,21,5,2023
+Salad,1442192023,1,220,All Items,21,5,2023
+Burger,1232192023,8,350,Most Ordered,21,5,2023
+Chips,1792192023,18,70,Most Ordered,21,5,2023
+Special Burger,1352292023,2,450,Most Ordered,22,5,2023
+Doughnut,6072292023,3,99,Most Ordered,22,5,2023
+Salad,1702292023,3,220,Most Ordered,22,5,2023
+Spageti,1932292023,3,250,Most Ordered,22,5,2023
+Chips,1272292023,3,70,Most Ordered,22,5,2023
+Special Burger,1353102023,3,450,Most Ordered,3,5,2023
+Salad,1703102023,3,220,Most Ordered,3,5,2023
+Donut,1483102023,1,30,Most Ordered,3,5,2023
+Spageti,1663102023,2,250,Most Ordered,3,5,2023
+Salad,1243102023,1,220,Most Ordered,3,5,2023
+Spageti,1393102023,3,250,Most Ordered,3,5,2023
+Spageti,1934102023,24,250,Most Ordered,4,5,2023
+Chips,1274102023,3,70,Most Ordered,4,5,2023
+Donut,1484102023,5,30,Most Ordered,4,5,2023
+Salad,2244102023,1,220,Most Ordered,4,5,2023
+Doughnut,6074102023,4,99,Most Ordered,4,5,2023
+Burger,1844102023,1,350,Most Ordered,4,5,2023
+Spageti,1664102023,2,250,Most Ordered,4,5,2023
+Salad,1704102023,1,220,Most Ordered,4,5,2023
+Donut,1486102023,2,30,Most Ordered,6,5,2023
+Chips,1796102023,1,70,Most Ordered,6,5,2023
+Doughnut,6076102023,1,99,Most Ordered,6,5,2023
+Burger,2556102023,1,350,Main,6,5,2023
+Burger,5056102023,15,350,Main,6,5,2023
+Chips,1276102023,1,70,Most Ordered,6,5,2023
+Doughnut,6077102023,1,99,Most Ordered,7,5,2023
+Spageti,1938102023,1,250,Most Ordered,8,5,2023
+Salad,2248102023,1,220,Most Ordered,8,5,2023
+Chips,12710102023,1,70,Most Ordered,10,5,2023
+Burger,18410102023,3,350,Main,10,5,2023
+Chips,12711102023,2,70,Most Ordered,11,5,2023
+Donut,1291392023,1,30,Dessert,13,5,2023
+Chips,1291392023,1,70,Dessert,13,5,2023
+Special Burger,1291392023,1,450,Dessert,13,5,2023
+Doughnut,1291392023,4,99,Most Ordered,4,5,2023
+Burger,1291392023,1,350,Most Ordered,4,5,2023
+Spageti,1291392023,2,250,Most Ordered,4,5,2023
+Salad,1291392023,1,220,Most Ordered,4,5,2023
+Donut,1291392023,2,30,Most Ordered,6,5,2023
+Chips,1291392023,1,70,Most Ordered,6,5,2023
+Doughnut,1291392023,1,99,Most Ordered,6,5,2023
+Burger,1291392023,1,350,Main,6,5,2023
+Burger,1291392023,15,350,Main,6,5,2023
+Chips,1291392023,1,70,Most Ordered,6,5,2023
+Doughnut,1291392023,1,99,Most Ordered,7,5,2023
+Spageti,1291392023,1,250,Most Ordered,8,5,2023
+Salad,1291392023,1,220,Most Ordered,8,5,2023
+Chips,1291392023,1,70,Most Ordered,10,5,2023
+Burger,1291392023,3,350,Main,10,5,2023
+Chips,1271192023,2,70,Most Ordered,11,5,2023
+Donut,1271192023,1,30,Dessert,13,5,2023
+Chips,1271192023,1,70,Dessert,13,5,2023
+Special Burger,1271192023,1,450,Dessert,13,5,2023
+Spageti,1932292023,3,250,Most Ordered,22,5,2023
+Chips,1272292023,3,70,Most Ordered,22,5,2023
+Special Burger,135372023,3,450,Most Ordered,3,5,2023
+Salad,135372023,3,220,Most Ordered,3,5,2023
+Donut,135372023,1,30,Most Ordered,3,5,2023
+Spageti,135372023,2,250,Most Ordered,3,5,2023
+Salad,135372023,1,220,Most Ordered,3,5,2023
+Spageti,135372023,3,250,Most Ordered,3,5,2023
+Spageti,135372023,24,250,Most Ordered,4,5,2023
+Chips,135372023,3,70,Most Ordered,4,5,2023
+Donut,135372023,5,30,Most Ordered,4,5,2023
+Salad,135372023,1,220,Most Ordered,4,5,2023
+Doughnut,135372023,4,99,Most Ordered,4,5,2023
+Burger,135372023,1,350,Most Ordered,4,5,2023
+Spageti,135372023,2,250,Most Ordered,4,5,2023
+Salad,135372023,1,220,Most Ordered,4,5,2023
+Donut,135372023,2,30,Most Ordered,6,5,2023
+Chips,135372023,1,70,Most Ordered,6,5,2023
+Doughnut,135372023,1,99,Most Ordered,6,5,2023
+Burger,135372023,1,350,Main,6,5,2023
+Donut,1484102023,5,30,Most Ordered,4,6,2023
+Salad,2244102023,1,220,Most Ordered,4,6,2023
+Doughnut,6074102023,4,99,Most Ordered,4,6,2023
+Burger,1844102023,1,350,Most Ordered,4,6,2023
+Spageti,1664102023,2,250,Most Ordered,4,6,2023
+Salad,1704102023,1,220,Most Ordered,4,6,2023
+Donut,1486102023,2,30,Most Ordered,6,6,2023
+Chips,1796102023,1,70,Most Ordered,6,6,2023
+Doughnut,6076102023,1,99,Most Ordered,6,6,2023
+Burger,2556102023,1,350,Main,6,6,2023
+Burger,5056102023,15,350,Main,6,6,2023
+Chips,1276102023,1,70,Most Ordered,6,6,2023
+Doughnut,6077102023,1,99,Most Ordered,7,6,2023
+Spageti,1938102023,1,250,Most Ordered,8,6,2023
+Salad,2248102023,1,220,Most Ordered,8,6,2023
+Chips,12710102023,1,70,Most Ordered,10,6,2023
+Burger,18410102023,3,350,Main,10,6,2023
+Chips,12711102023,2,70,Most Ordered,11,6,2023
+Donut,1291392023,1,30,Dessert,13,6,2023
+Chips,1291392023,1,70,Dessert,13,6,2023
+Special Burger,1291392023,1,450,Dessert,13,6,2023
+Doughnut,1291392023,4,99,Most Ordered,4,6,2023
+Burger,1291392023,1,350,Most Ordered,4,6,2023
+Spageti,1291392023,2,250,Most Ordered,4,6,2023
+Salad,1291392023,1,220,Most Ordered,4,6,2023
+Donut,1291392023,2,30,Most Ordered,6,6,2023
+Chips,1291392023,1,70,Most Ordered,6,6,2023
+Doughnut,1291392023,1,99,Most Ordered,6,6,2023
+Burger,1291392023,1,350,Main,6,6,2023
+Burger,1291392023,15,350,Main,6,6,2023
+Chips,1291392023,1,70,Most Ordered,6,6,2023
+Doughnut,1291392023,1,99,Most Ordered,7,6,2023
+Spageti,1291392023,1,250,Most Ordered,8,6,2023
+Salad,1291392023,1,220,Most Ordered,8,6,2023
+Chips,1291392023,1,70,Most Ordered,10,6,2023
+Burger,1291392023,3,350,Main,10,6,2023
+Chips,1271192023,2,70,Most Ordered,11,6,2023
+Donut,1271192023,1,30,Dessert,13,6,2023
+Chips,1271192023,1,70,Dessert,13,6,2023
+Special Burger,1271192023,1,450,Dessert,13,6,2023
+Spageti,1932292023,3,250,Most Ordered,22,6,2023
+Chips,1272292023,3,70,Most Ordered,22,6,2023
+Special Burger,135372023,3,450,Most Ordered,3,6,2023
+Salad,135372023,3,220,Most Ordered,3,6,2023
+Donut,135372023,1,30,Most Ordered,3,6,2023
+Spageti,135372023,2,250,Most Ordered,3,6,2023
+Salad,135372023,1,220,Most Ordered,3,6,2023
+Spageti,135372023,3,250,Most Ordered,3,6,2023
+Spageti,135372023,24,250,Most Ordered,4,6,2023
+Chips,135372023,3,70,Most Ordered,4,6,2023
+Donut,135372023,5,30,Most Ordered,4,6,2023
+Salad,135372023,1,220,Most Ordered,4,6,2023
+Doughnut,135372023,4,99,Most Ordered,4,6,2023
+Burger,135372023,1,350,Most Ordered,4,6,2023
+Spageti,135372023,2,250,Most Ordered,4,6,2023
+Salad,135372023,1,220,Most Ordered,4,6,2023
+Donut,135372023,2,30,Most Ordered,6,6,2023
+Chips,135372023,1,70,Most Ordered,6,6,2023
+Doughnut,135372023,1,99,Most Ordered,6,6,2023
+Burger,135372023,1,350,Main,6,6,2023
+Burger,135372023,15,350,Main,6,6,2023
+Chips,127652023,1,70,Most Ordered,6,6,2023
+Doughnut,127652023,1,99,Most Ordered,7,6,2023
+Spageti,127652023,1,250,Most Ordered,8,6,2023
+Salad,127652023,1,220,Most Ordered,8,6,2023
+Chips,127652023,1,70,Most Ordered,10,6,2023
+Burger,127652023,3,350,Main,10,6,2023
+Chips,127652023,2,70,Most Ordered,11,6,2023
+Donut,127652023,1,30,Dessert,13,6,2023
+Chips,127652023,1,70,Dessert,13,6,2023
+Salad,1702192023,16,220,Most Ordered,21,6,2023
+Spageti,1932192023,18,250,Most Ordered,21,6,2023
+Salad,2242192023,15,220,Most Ordered,21,6,2023
+Spageti,1662192023,2,250,Most Ordered,21,6,2023
+Special Burger,1352192023,10,450,Most Ordered,21,6,2023
+Donut,1482192023,18,30,Most Ordered,21,6,2023
+Spageti,1392192023,13,250,Most Ordered,21,6,2023
+Burger,1842192023,3,350,Most Ordered,21,6,2023
+Donut,1292192023,11,30,Most Ordered,21,6,2023
+Salad,1242192023,4,220,All Items,21,6,2023
+Special Burger,1062192023,3,450,Most Ordered,21,6,2023
+Spageti,1052192023,2,250,All Items,21,6,2023
+Salad,1442192023,1,220,All Items,21,6,2023
+Burger,1232192023,8,350,Most Ordered,21,6,2023
+Chips,1792192023,18,70,Most Ordered,21,6,2023
+Special Burger,1352292023,2,450,Most Ordered,22,6,2023
+Doughnut,6072292023,3,99,Most Ordered,22,6,2023
+Salad,1702292023,3,220,Most Ordered,22,6,2023
+Spageti,1932292023,3,250,Most Ordered,22,6,2023
+Chips,1272292023,3,70,Most Ordered,22,6,2023
+Special Burger,1353102023,3,450,Most Ordered,3,6,2023
+Salad,1703102023,3,220,Most Ordered,3,6,2023
+Donut,1483102023,1,30,Most Ordered,3,6,2023
+Spageti,1663102023,2,250,Most Ordered,3,6,2023
+Salad,1243102023,1,220,Most Ordered,3,6,2023
+Spageti,1393102023,3,250,Most Ordered,3,6,2023
+Spageti,1934102023,24,250,Most Ordered,4,6,2023
+Chips,1274102023,3,70,Most Ordered,4,6,2023
+Donut,1484102023,5,30,Most Ordered,4,6,2023
+Salad,2244102023,1,220,Most Ordered,4,6,2023
+Doughnut,6074102023,4,99,Most Ordered,4,6,2023
+Burger,1844102023,1,350,Most Ordered,4,6,2023
+Spageti,1664102023,2,250,Most Ordered,4,6,2023
+Salad,1704102023,1,220,Most Ordered,4,6,2023
+Donut,1486102023,2,30,Most Ordered,6,6,2023
+Chips,1796102023,1,70,Most Ordered,6,6,2023
+Doughnut,6076102023,1,99,Most Ordered,6,6,2023
+Burger,2556102023,1,350,Main,6,6,2023
+Burger,5056102023,15,350,Main,6,6,2023
+Chips,1276102023,1,70,Most Ordered,6,6,2023
+Doughnut,6077102023,1,99,Most Ordered,7,6,2023
+Spageti,1938102023,1,250,Most Ordered,8,6,2023
+Salad,2248102023,1,220,Most Ordered,8,6,2023
+Chips,12710102023,1,70,Most Ordered,10,6,2023
+Burger,18410102023,3,350,Main,10,6,2023
+Chips,12711102023,2,70,Most Ordered,11,6,2023
+Donut,1291392023,1,30,Dessert,13,6,2023
+Chips,1291392023,1,70,Dessert,13,6,2023
+Special Burger,1291392023,1,450,Dessert,13,6,2023
+Doughnut,1291392023,4,99,Most Ordered,4,6,2023
+Burger,1291392023,1,350,Most Ordered,4,6,2023
+Spageti,1291392023,2,250,Most Ordered,4,6,2023
+Salad,1291392023,1,220,Most Ordered,4,6,2023
+Donut,1291392023,2,30,Most Ordered,6,6,2023
+Chips,1291392023,1,70,Most Ordered,6,6,2023
+Doughnut,1291392023,1,99,Most Ordered,6,6,2023
+Burger,1291392023,1,350,Main,6,6,2023
+Burger,1291392023,15,350,Main,6,6,2023
+Chips,1291392023,1,70,Most Ordered,6,6,2023
+Doughnut,1291392023,1,99,Most Ordered,7,6,2023
+Spageti,1291392023,1,250,Most Ordered,8,6,2023
+Salad,1291392023,1,220,Most Ordered,8,6,2023
+Chips,1291392023,1,70,Most Ordered,10,6,2023
+Burger,1291392023,3,350,Main,10,6,2023
+Chips,1271192023,2,70,Most Ordered,11,6,2023
+Donut,1271192023,1,30,Dessert,13,6,2023
+Chips,1271192023,1,70,Dessert,13,6,2023
+Special Burger,1271192023,1,450,Dessert,13,6,2023
+Spageti,1932292023,3,250,Most Ordered,22,6,2023
+Chips,1272292023,3,70,Most Ordered,22,6,2023
+Special Burger,135372023,3,450,Most Ordered,3,6,2023
+Salad,135372023,3,220,Most Ordered,3,6,2023
+Donut,135372023,1,30,Most Ordered,3,6,2023
+Spageti,135372023,2,250,Most Ordered,3,6,2023
+Salad,135372023,1,220,Most Ordered,3,6,2023
+Spageti,135372023,3,250,Most Ordered,3,6,2023
+Spageti,135372023,24,250,Most Ordered,4,6,2023
+Chips,135372023,3,70,Most Ordered,4,6,2023
+Donut,135372023,5,30,Most Ordered,4,6,2023
+Salad,135372023,1,220,Most Ordered,4,6,2023
+Doughnut,135372023,4,99,Most Ordered,4,6,2023
+Burger,135372023,1,350,Most Ordered,4,6,2023
+Spageti,135372023,2,250,Most Ordered,4,6,2023
+Salad,135372023,1,220,Most Ordered,4,6,2023
+Donut,135372023,2,30,Most Ordered,6,6,2023
+Chips,135372023,1,70,Most Ordered,6,6,2023
+Doughnut,135372023,1,99,Most Ordered,6,6,2023
+Burger,135372023,1,350,Main,6,6,2023
+Sofi,14714102023,14,35,Most Ordered,14,10,2023
+Kitfo,14514102023,18,340,Most Ordered,14,10,2023
+Heineken,23414102023,10,50,Most Ordered,14,10,2023
+Doro Wot,14614102023,28,400,Most Ordered,14,10,2023
+Nigus,14814102023,24,35,Most Ordered,14,10,2023
+Shekla Tibs,14114102023,4,250,Most Ordered,14,10,2023
+Redbull,23814102023,10,94,Most Ordered,14,10,2023
+Mirinda,15014102023,3,25,Beverages,14,10,2023
+Pepsi,15114102023,8,25,Beverages,14,10,2023
+Black Forest Cake,13714102023,4,150,Most Ordered,14,10,2023
+Pecan Cake,13614102023,3,235,Most Ordered,14,10,2023
+Kikil,14414102023,3,350,Most Ordered,14,10,2023
+Shiro,14314102023,17,70,Most Ordered,14,10,2023
+Salad,12414102023,11,220,Main,14,10,2023
+Burger,12314102023,6,350,Main,14,10,2023
+Chips,12714102023,7,70,Main,14,10,2023
+Special Burger,10614102023,2,450,Main,14,10,2023
+Spageti,10514102023,2,250,Main,14,10,2023
+Beyanet,14214102023,4,80,Traditional,14,10,2023
+Coca-Cola,15314102023,4,25,Beverages,14,10,2023
+Cecebsa,14014102023,3,160,Traditional,14,10,2023
+Shiro,1439112023,24,70,Traditional,9,11,2023
+Beyanet,1429112023,6,80,Traditional,9,11,2023
+Heineken,2349112023,2,50,Most Ordered,9,11,2023
+Kikil,1449112023,2,350,Most Ordered,9,11,2023
+Shekla Tibs,1419112023,3,250,Most Ordered,9,11,2023
+Salad,1249112023,1,220,Main,9,11,2023
+Chips,1279112023,1,70,Main,9,11,2023
+Sofi,1479112023,1,35,Most Ordered,9,11,2023
+Kitfo,1459112023,1,340,Most Ordered,9,11,2023
+Doughnuts,1329112023,7,120,All Items,9,11,2023
+Heineken,23411112023,1,50,Most Ordered,11,11,2023
+Shiro,14311112023,1,70,Most Ordered,11,11,2023
+Nigus,14811112023,1,35,Most Ordered,11,11,2023
+Cecebsa,14011112023,1,160,Most Ordered,11,11,2023
+Salad,12411112023,1,220,All Items,11,11,2023
+Donut,12911112023,1,30,All Items,11,11,2023
+Chips,12711112023,2,70,All Items,11,11,2023
+Doro Wot,33912112023,11,400,Most Ordered,12,11,2023
+Heineken,34212112023,1,50,Most Ordered,12,11,2023
+Kikil,25912112023,1,350,Most Ordered,12,11,2023
+Sofi,26212112023,10,35,Most Ordered,12,11,2023
+Shiro,25812112023,4,90,Most Ordered,12,11,2023
+Nigus,26312112023,4,35,Most Ordered,12,11,2023
+Redbull,34312112023,5,94,Most Ordered,12,11,2023
+Doughnuts,33514112023,14,220,Most Ordered,14,11,2023
+Pecan Cake,33614112023,27,235,Most Ordered,14,11,2023
+Shiro,25814112023,17,90,Most Ordered,14,11,2023
+Redbull,34314112023,14,94,Most Ordered,14,11,2023
+Nigus,26314112023,2,35,Most Ordered,14,11,2023
+Doro Wot,33914112023,4,400,Most Ordered,14,11,2023
+Malta,26414112023,10,35,Most Ordered,14,11,2023
+Black Forest Cake,25214112023,3,350,Most Ordered,14,11,2023
+Shekla Tibs,25614112023,3,250,Traditional,14,11,2023
+Cecebsa,25514112023,5,360,Traditional,14,11,2023
+Gomen Kitfo,25414112023,4,230,Traditional,14,11,2023
+Kitfo,26014112023,6,340,Traditional,14,11,2023
+Brownies,33414112023,3,344,Dessert,14,11,2023
+Doro Wot,33915112023,16,400,Most Ordered,15,11,2023
+Nigus,26315112023,6,35,Most Ordered,15,11,2023
+Beyanet,33815112023,4,80,Most Ordered,15,11,2023
+Malta,26415112023,14,35,Most Ordered,15,11,2023
+Pecan Cake,33615112023,5,235,Most Ordered,15,11,2023
+Gomen Kitfo,25415112023,3,230,Most Ordered,15,11,2023
+Burger,23316112023,6,350,All Items,16,11,2023
+Shiro,25816112023,5,90,Traditional,16,11,2023
+Beyanet,3389122023,12,80,Most Ordered,9,12,2023
+Malta,2649122023,12,35,Most Ordered,9,12,2023
+Heineken,3429122023,12,50,Most Ordered,9,12,2023
+Kikil,2599122023,12,350,Most Ordered,9,12,2023
+Doro Wot,3399122023,12,400,Most Ordered,9,12,2023
+Shiro,2589122023,6,90,Most Ordered,9,12,2023
+Gomen Kitfo,2549122023,6,230,Most Ordered,9,12,2023
+Chocolate Cake,2439122023,6,300,All Items,9,12,2023
+Redbull,34311122023,17,94,Most Ordered,11,12,2023
+Doughnuts,33511122023,5,220,Most Ordered,11,12,2023
+Panna Cotta,25011122023,3,235,Dessert,11,12,2023
+Macarons,24911122023,6,400,Dessert,11,12,2023
+Doro Wot,33911122023,4,400,Most Ordered,11,12,2023
+Sofi,26211122023,5,35,Most Ordered,11,12,2023
+Shiro,25811122023,1,90,Most Ordered,11,12,2023
+Pecan Cake,33611122023,5,235,Most Ordered,11,12,2023
+Apple Pie,23911122023,4,280,All Items,11,12,2023
+Bread Budding,24011122023,1,220,All Items,11,12,2023
+Cheese Cake,24211122023,1,204,All Items,11,12,2023
+Nigus,26325122023,29,35,Most Ordered,25,12,2023
+Sofi,26225122023,44,35,Most Ordered,25,12,2023
+Shiro,25825122023,3,90,Most Ordered,25,12,2023
+Malta,26425122023,3,35,Most Ordered,25,12,2023
+Pecan Cake,33625122023,5,235,Most Ordered,25,12,2023
+Kitfo,26025122023,5,340,Most Ordered,25,12,2023
+Gomen Kitfo,25425122023,2,230,Most Ordered,25,12,2023
+Doughnuts,33525122023,1,220,Most Ordered,25,12,2023
+Cecebsa,25525122023,3,360,Most Ordered,25,12,2023
+Doro Wot,33925122023,3,400,Most Ordered,25,12,2023
+Heineken,34225122023,2,50,Most Ordered,25,12,2023
+Redbull,34325122023,2,94,Most Ordered,25,12,2023
+Beyanet,33825122023,4,80,Most Ordered,25,12,2023
+Shekla Tibs,25625122023,2,250,Most Ordered,25,12,2023

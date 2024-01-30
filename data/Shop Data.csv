@@ -1,0 +1,41 @@
+Items,Prices,Category,Image Name,Codes,Frequency,
+Special Burger,450,Main,Special Burger.png,233,10,
+Spageti,250,Main,Spageti.png,234,5,
+Salad,220,Main,Salad.png,235,17,
+Donut,30,Dessert,Donut.png,236,5,
+Chips,80,Main,Chips.png,333,16,
+Burger,350,Main,Burger.png,238,13,
+Apple Pie,280,Dessert,Apple Pie.png,239,11,
+Bread Budding,220,Dessert,Bread Budding.png,240,9,
+Brownies,344,Dessert,Brownies.png,334,12,
+Cheese Cake,204,Dessert,Cheese Cake.png,242,11,
+Chocolate Cake,300,Dessert,Chocolate Cake.png,243,17,
+Chocolate Mousse,280,Dessert,Chocolate Mousse.png,244,12,
+Crab Cake,250,Dessert,Crab Cake.png,245,13,
+Creme Caramel,400,Dessert,Crab Cake.png,246,14,n
+Doughnuts,220,Dessert,Doughnuts.png,335,42,
+Fruit Tart,350,Dessert,Fruit Tart.png,248,16,
+Macarons,400,Dessert,Macarons.png,249,23,
+Panna Cotta,235,Dessert,Panna Cotta.png,250,21,
+Pecan Cake,235,Dessert,Pecan Cake.png,336,64,n
+Black Forest Cake,350,Dessert,Black Forest Cake.png,252,27,
+Baked Alaska,450,Dessert,Baked Alaska.png,253,21,n
+Gomen Kitfo,230,Traditional,Gomen Kitfo.png,254,37,n
+Cecebsa,360,Traditional,Cecebsa.png,255,35,
+Shekla Tibs,250,Traditional,Shekla Tibs.png,256,37,
+Beyanet,80,Traditional,Beyanet.png,338,56,
+Shiro,90,Traditional,Shiro.png,258,105,
+Kikil,350,Traditional,Kikil.png,259,46,k
+Kitfo,340,Traditional,Kitfo.png,260,58,n
+Doro Wot,400,Traditional,Dorowot.png,339,108,n
+Sofi,35,Beverages,Sofi.png,262,115,n
+Nigus,35,Beverages,Nigus.png,263,108,
+Malta,35,Beverages,Malta.png,264,58,
+Mirinda,25,Beverages,Mirinda.png,265,22,
+Pepsi,25,Beverages,Pepsi.png,266,16,
+Fanta,25,Beverages,Fanta.png,340,9,
+Coca-Cola,25,Beverages,Coca-Cola.png,268,14,
+7-UP,25,Beverages,7-UP.png,269,22,
+Heineken,50,Beverages,Heineken.png,342,62,
+Redbull,94,Beverages,Redbull.png,343,100,
+Hot Dog,300,Main,Hot Dog.png,23345,,
